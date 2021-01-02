@@ -1,4 +1,4 @@
-module github.com/u-root/u-root
+module github.com/u-root/u-root/v7
 
 go 1.13
 
